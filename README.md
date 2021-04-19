@@ -51,3 +51,9 @@ console.log( human.walk() );  // prints 'walking'
 In your lab today, you'll be doing a full "professional" deployment using 2 branches, PR's, and a continuous process to get your code deployed.
 
 You will repeat this process for every server based lab moving forward. Keep these notes (and the lab steps) handy for future reference
+
+### Submission
+Dev Heroku: https://julien-server-deploy-dev.herokuapp.com/
+Prod Heroku: https://julien-server-deploy-prod.herokuapp.com/
+
+Github: https://github.com/TrunkOfUkuleles/server-deployment-practice
